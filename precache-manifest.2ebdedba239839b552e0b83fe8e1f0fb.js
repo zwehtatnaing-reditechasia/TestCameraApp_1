@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84329fa318abc85ccb08f4a4c1b96997",
+    "revision": "c2a700e94a9c18ad00b1d2d3d722487c",
     "url": "/TestCameraApp_1/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TestCameraApp_1/static/css/2.f0405d8a.chunk.css"
   },
   {
-    "revision": "78b0c7e7cc90cf3af85e",
-    "url": "/TestCameraApp_1/static/css/main.8652d4e9.chunk.css"
+    "revision": "4eb2b8b6e1b95bae0c9c",
+    "url": "/TestCameraApp_1/static/css/main.263587f4.chunk.css"
   },
   {
     "revision": "354f1db10fada190fd1e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TestCameraApp_1/static/js/2.fa3c9c98.chunk.js.LICENSE"
   },
   {
-    "revision": "78b0c7e7cc90cf3af85e",
-    "url": "/TestCameraApp_1/static/js/main.6356d221.chunk.js"
+    "revision": "4eb2b8b6e1b95bae0c9c",
+    "url": "/TestCameraApp_1/static/js/main.60fda1fb.chunk.js"
   },
   {
     "revision": "e99cbdee6eb862d8eb27",
