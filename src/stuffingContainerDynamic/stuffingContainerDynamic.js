@@ -305,6 +305,7 @@ class StuffingContainerDynamic extends React.Component {
           open={this.state.openImageForm}
           onClose={this.closeImageForm}
           aria-labelledby="Add Image"
+          style={{minWidth: '50%'}}
         >
           <DialogTitle id="dialog-title">{"Add Image"}</DialogTitle>
           <DialogContent>
@@ -313,7 +314,6 @@ class StuffingContainerDynamic extends React.Component {
               direction="column"
               justify="flex-start"
               wrap="wrap"
-              style={{ minWidth: 450 }}
             >
               {/** Description */}
               <Grid item style={{ padding: 4 }}>
