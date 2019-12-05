@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a96e15be1ffa33f85f5a4f5505a243c7",
+    "revision": "d11361c2be254555117cc6a3bfac86a1",
     "url": "/TestCameraApp_1/index.html"
   },
   {
-    "revision": "c854d6423719850574d1",
+    "revision": "aa2a284245533942c38d",
     "url": "/TestCameraApp_1/static/css/2.f0405d8a.chunk.css"
   },
   {
-    "revision": "f7f0056da21bdc20b6bd",
+    "revision": "92df38f381a572b41871",
     "url": "/TestCameraApp_1/static/css/main.8652d4e9.chunk.css"
   },
   {
-    "revision": "c854d6423719850574d1",
-    "url": "/TestCameraApp_1/static/js/2.f2b1b3f0.chunk.js"
+    "revision": "aa2a284245533942c38d",
+    "url": "/TestCameraApp_1/static/js/2.fdff7856.chunk.js"
   },
   {
     "revision": "e2fc3609d47d90b8cc004bfe15ddf15e",
-    "url": "/TestCameraApp_1/static/js/2.f2b1b3f0.chunk.js.LICENSE"
+    "url": "/TestCameraApp_1/static/js/2.fdff7856.chunk.js.LICENSE"
   },
   {
-    "revision": "f7f0056da21bdc20b6bd",
-    "url": "/TestCameraApp_1/static/js/main.c1b7539c.chunk.js"
+    "revision": "92df38f381a572b41871",
+    "url": "/TestCameraApp_1/static/js/main.ca15223f.chunk.js"
   },
   {
     "revision": "e99cbdee6eb862d8eb27",
