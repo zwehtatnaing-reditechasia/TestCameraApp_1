@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TestCameraApp_1/static/css/main.8652d4e9.chunk.css",
-    "main.js": "/TestCameraApp_1/static/js/main.2dce24ca.chunk.js",
-    "main.js.map": "/TestCameraApp_1/static/js/main.2dce24ca.chunk.js.map",
+    "main.js": "/TestCameraApp_1/static/js/main.6356d221.chunk.js",
+    "main.js.map": "/TestCameraApp_1/static/js/main.6356d221.chunk.js.map",
     "runtime-main.js": "/TestCameraApp_1/static/js/runtime-main.e492e1b4.js",
     "runtime-main.js.map": "/TestCameraApp_1/static/js/runtime-main.e492e1b4.js.map",
     "static/css/2.f0405d8a.chunk.css": "/TestCameraApp_1/static/css/2.f0405d8a.chunk.css",
     "static/js/2.fa3c9c98.chunk.js": "/TestCameraApp_1/static/js/2.fa3c9c98.chunk.js",
     "static/js/2.fa3c9c98.chunk.js.map": "/TestCameraApp_1/static/js/2.fa3c9c98.chunk.js.map",
     "index.html": "/TestCameraApp_1/index.html",
-    "precache-manifest.aa56086d379d6238d6a74c9c33862dec.js": "/TestCameraApp_1/precache-manifest.aa56086d379d6238d6a74c9c33862dec.js",
+    "precache-manifest.eff39551be1bbc5967dddca94c6c84dc.js": "/TestCameraApp_1/precache-manifest.eff39551be1bbc5967dddca94c6c84dc.js",
     "service-worker.js": "/TestCameraApp_1/service-worker.js",
     "static/css/2.f0405d8a.chunk.css.map": "/TestCameraApp_1/static/css/2.f0405d8a.chunk.css.map",
     "static/css/main.8652d4e9.chunk.css.map": "/TestCameraApp_1/static/css/main.8652d4e9.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.f0405d8a.chunk.css",
     "static/js/2.fa3c9c98.chunk.js",
     "static/css/main.8652d4e9.chunk.css",
-    "static/js/main.2dce24ca.chunk.js"
+    "static/js/main.6356d221.chunk.js"
   ]
 }
