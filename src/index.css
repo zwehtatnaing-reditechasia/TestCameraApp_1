@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.form-btn-container {
+  display: flex;
+  position: sticky;
+  position: -webkit-sticky; /* Safari, android mobile browsers */
+  flex-direction: row;
+  flex-flow: row;
+  flex: 1;
+  justify-content: flex-start;
+  height: 60px;
+  bottom: 0px;
+  z-index: 99;
+  width: auto;
+  border: 1px solid #c0c0c0;
+  background-color: #f9f9f9;
+}
+
+@media only screen and (max-width: 600px) {
+  .Layout-content-7 {
+    padding: 6px !important;
+  }
+}

@@ -1,0 +1,11 @@
+/* todo: delete file if not needed */
+.react-html5-camera-photo {
+  width: 100%;
+  height: auto;
+}
+
+video {
+  min-width: 550px !important;
+  max-width: 1024px !important;
+  max-height: 100vh;
+}

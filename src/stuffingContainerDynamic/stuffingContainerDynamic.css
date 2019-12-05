@@ -1,0 +1,16 @@
+/* todo: delete file if not needed */
+.MuiCardHeader-root {
+  padding: 6px !important;
+}
+
+.MuiTypography-h5 {
+  font-size: 1rem !important;
+}
+
+.floating-btn-container {
+  position: fixed;
+  display: block;
+  float: right;
+  right: 25px;
+  bottom: 20px;
+}
