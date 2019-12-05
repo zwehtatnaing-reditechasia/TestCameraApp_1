@@ -21,6 +21,8 @@ import StuffingContainerDynamic from './stuffingContainerDynamic/stuffingContain
 function App () {
   return (
     <div className='App' style={{ padding: 15 }}>
+
+      <BrowserRouter>
       <List component='div'>
         <ListItem
           button
@@ -38,7 +40,7 @@ function App () {
           <ListItemText primary='StuffingContainerDynamic' />
         </ListItem>
       </List>
-      <BrowserRouter>
+      
         <Switch>
           <Route exact path='/StuffingContainer' render={() => <StuffingContainer />} />
           <Route exact path='/StuffingContainerDynamic' render={() => <StuffingContainerDynamic />} />
